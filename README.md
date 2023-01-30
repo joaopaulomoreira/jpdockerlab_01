@@ -9,7 +9,7 @@ Repositório para documentação de simulações e POCs (Proof of Concept) com o
 
 <tr align="center">
 <td align="center" valign="top">
-<img  src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML5" title="HTML5" height="100" />
+<img src="https://github.com/joaopaulomoreira/jpdockerlab_01/blob/d779517020f3937a753e16413f7495889298aa62/DockerHub.jpg"/>
 </td>
 </tr>
 </table>
